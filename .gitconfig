@@ -1,5 +1,3 @@
-[credential]
-	helper = cache
 [pull]
 	rebase = true
 [rebase]
